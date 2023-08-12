@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XPCurrent
+- 👋 Hi, I’m @WindyCurrents
 - I'm just a student who likes to keep stuff on GitHub.
 - My repos are mostly school projects so you can see what I'm tasked to do
 
